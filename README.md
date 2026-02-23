@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋</h1>
+<h1 align="left">Hi, I am Kevin 👋</h1>
 
 <p>
 Senior Software Engineer | Distributed Systems | Cloud & Compute Infrastructure
