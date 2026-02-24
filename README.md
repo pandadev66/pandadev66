@@ -66,8 +66,4 @@ I focus on reliability, workload isolation, performance optimization, and full l
   <a href="https://www.linkedin.com/in/klin1344/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="42" title="LinkedIn Profile"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/pandadev66">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" title="GitHub Profile"/>
-  </a>
 </p>
