@@ -58,7 +58,7 @@ I focus on reliability, workload isolation, performance optimization, and full l
 
 ## 📫 Connect With Me
 
-<p align="center">
+<p>
   <a href="mailto:kl951210@outlook.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="42" title="Email Me"/>
   </a>
