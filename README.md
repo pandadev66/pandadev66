@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&width=900&lines=Kevin+Lin;Senior+Software+Engineer;Distributed+Systems+%7C+Cloud+Infrastructure;Designing+Reliable+Systems+at+Scale" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Distributed+Systems+%7C+Cloud+Infrastructure;Designing+Reliable+Systems+at+Scale" />
 </p>
 
 <p align="center">
