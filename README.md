@@ -10,7 +10,7 @@ Senior Software Engineer | Distributed Systems | Cloud & Compute Infrastructure
 ---
 
 <p>
-Senior Software Engineer with 8+ years of experience designing and scaling production-grade backend platforms and cloud-native systems. I specialize in distributed system architecture, multi-tenant infrastructure, and high-throughput services built with TypeScript and Go.
+Senior Software Engineer with 6+ years of experience designing and scaling production-grade backend platforms and cloud-native systems. I specialize in distributed system architecture, multi-tenant infrastructure, and high-throughput services built with TypeScript and Go.
 
 I focus on reliability, workload isolation, performance optimization, and full lifecycle ownership — from system design and implementation to deployment, observability, and operational excellence.
 </p>
@@ -63,7 +63,7 @@ I focus on reliability, workload isolation, performance optimization, and full l
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="42" title="Email Me"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/klin1344/">
+  <a href="https://www.linkedin.com/in/cjimenez9175/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="42" title="LinkedIn Profile"/>
   </a>
 </p>
