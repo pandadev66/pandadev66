@@ -59,11 +59,11 @@ I focus on reliability, workload isolation, performance optimization, and full l
 ## 📫 Connect With Me
 
 <p>
-  <a href="mailto:kl951210@outlook.com">
+  <a href="mailto:klin.coder0615@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="42" title="Email Me"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/cjimenez9175/">
+  <a href="https://www.linkedin.com/in/kevin-lin-38850811b/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="42" title="LinkedIn Profile"/>
   </a>
 </p>
